@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fragment Tabs Tutorial</string>
+    <string name="toast_item_click">"You clicked on: "</string>
+    <string name="label_list_view">List View</string>
+    <string name="label_grid_view">Grid View</string>
+
+</resources>
