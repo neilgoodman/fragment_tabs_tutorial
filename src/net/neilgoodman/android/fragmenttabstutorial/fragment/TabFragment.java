@@ -22,7 +22,7 @@ public class TabFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View view = inflater.inflate(R.layout.fragment_tab, container, false);
         
-        // Grab out tab buttons from the layout and attach event handlers. The code just uses standard
+        // Grab the tab buttons from the layout and attach event handlers. The code just uses standard
         // buttons for the tab widgets. These are bad tab widgets, design something better, this is just
         // to keep the code simple.
         Button listViewTab = (Button) view.findViewById(R.id.list_view_tab);

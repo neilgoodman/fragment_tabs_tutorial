@@ -46,7 +46,5 @@ public class LocationListFragment extends ListFragment {
             Toast.makeText(activity, getString(R.string.toast_item_click) + locationModel.address, Toast.LENGTH_SHORT).show();
         }
     }
-    
-    
-    
+       
 }
